@@ -21,5 +21,14 @@ DataUsa request with 3 different parameters and following response:
 key: drilldowns & value: Nation
 key: measures & value: Population
 key: year	& value: 2017
+![dataUsaResponse](https://github.com/CiprianSimionov/CypressSample/assets/26772192/fe8e6bd4-10a8-4c39-b8d3-75864fc9ef7d)
 
+-----------------------------------------------------------------------
+
+Another listener with a display graph:
+minimum loading time of 66 ms
+maximum loading time 669 ms
+and 350 ms average loading time 
+
+![dataUsaGraph](https://github.com/CiprianSimionov/CypressSample/assets/26772192/e4bcb6d4-9497-44c1-a936-861fc3a2ca0d)
 
