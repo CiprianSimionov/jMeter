@@ -8,11 +8,11 @@ Below are some requests samples in order to measure performance and load times f
 Aliexpress request with 5 Threads and with incorrect URL.
 I've created assertion results for response code 200.
 
-![aliexpressRequest](https://github.com/CiprianSimionov/CypressSample/assets/26772192/dea1fafe-156b-4e39-92fc-5251b5d14717)
+![aliexpressRequest](https://github.com/CiprianSimionov/jMeter/assets/26772192/6069e4bd-1d30-48df-b5d0-9c94444a156a)
 
 -----------------------------------------------------------------------
 
-![aliexpressResponse](https://github.com/CiprianSimionov/CypressSample/assets/26772192/1262e46e-e2d0-45ac-806e-5fa701e1335c)
+![aliexpressResponse](https://github.com/CiprianSimionov/jMeter/assets/26772192/6524fe10-ff27-4025-9520-104733f451d0)
 
 -----------------------------------------------------------------------
 
@@ -21,7 +21,8 @@ DataUsa request with 3 different parameters and following response:
 key: drilldowns & value: Nation
 key: measures & value: Population
 key: year	& value: 2017
-![dataUsaResponse](https://github.com/CiprianSimionov/CypressSample/assets/26772192/fe8e6bd4-10a8-4c39-b8d3-75864fc9ef7d)
+
+![dataUsaResponse](https://github.com/CiprianSimionov/jMeter/assets/26772192/85af8be7-dcd2-47dc-b4c3-c0d68d368819)
 
 -----------------------------------------------------------------------
 
@@ -30,5 +31,5 @@ minimum loading time of 66 ms
 maximum loading time 669 ms
 and 350 ms average loading time 
 
-![dataUsaGraph](https://github.com/CiprianSimionov/CypressSample/assets/26772192/e4bcb6d4-9497-44c1-a936-861fc3a2ca0d)
+![dataUsaGraph](https://github.com/CiprianSimionov/jMeter/assets/26772192/8ca6e607-748b-4540-a5ef-7554736da99e)
 
